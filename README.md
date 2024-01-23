@@ -1,0 +1,1 @@
+This repo contains a jupyter notebook downloaded from a Kaggle competition. The notebook can be found on Kaggle here: [Kaggle notebook link](https://www.kaggle.com/code/mrjustpeachy/credit-card-fraud-detection/notebook)
